@@ -1,3 +1,4 @@
 第一次上传资源
 模式冲突
 StartUp-bigdata
+使用第三方用户Nan-StartUp用户fock主库,得到从库修改
